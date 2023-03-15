@@ -2,9 +2,9 @@
 
 namespace Nurmuhammet\LaravelAuthApi;
 
+use Nurmuhammet\LaravelAuthApi\Commands\LaravelAuthApiCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Nurmuhammet\LaravelAuthApi\Commands\LaravelAuthApiCommand;
 
 class LaravelAuthApiServiceProvider extends PackageServiceProvider
 {
