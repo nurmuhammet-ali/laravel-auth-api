@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Nurmuhammet\LaravelAuthApi\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelAuthApiCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-auth-api';
 
     public $description = 'My command';
 
